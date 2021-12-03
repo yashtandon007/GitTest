@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         println("Hello from repo")
+        println("Hello from repo2")
+        
     }
 }
