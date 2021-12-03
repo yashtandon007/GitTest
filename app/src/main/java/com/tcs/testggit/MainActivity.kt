@@ -15,7 +15,6 @@ class MainActivity : AppCompatActivity() {
                     .commitNow()
         }
 
-        println("Hello from friend")
-        println("friend 2nd line")
+        println("Hello from repo")
     }
 }
