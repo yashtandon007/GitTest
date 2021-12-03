@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         println("Hello from friend")
+        println("friend 2nd line")
     }
 }
