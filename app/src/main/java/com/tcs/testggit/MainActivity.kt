@@ -2,6 +2,7 @@ package com.tcs.testggit
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Button
 import com.tcs.testggit.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
@@ -15,7 +16,6 @@ class MainActivity : AppCompatActivity() {
                     .commitNow()
         }
 
-        println("Hello from local")
-        println("Hello from local 2")
+
     }
 }
